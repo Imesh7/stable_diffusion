@@ -10,4 +10,4 @@ Stable diffusion model from scratch
 
 
 ### What's next
-- flow matching
+- [ ] flow matching
