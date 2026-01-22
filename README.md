@@ -7,3 +7,7 @@ Stable diffusion model from scratch
 
 
 - used dog dataset to train the model (https://chaladze.com/l5/)
+
+
+### What's next
+- flow matching
