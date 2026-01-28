@@ -11,3 +11,4 @@ Stable diffusion model from scratch
 
 ### What's next
 - [ ] flow matching
+- [ ] transformer based diffudion process
