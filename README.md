@@ -1,5 +1,6 @@
 # Stable diffusion model from scratch
 Stable diffusion model from scratch
+(Stable difffusion v1)
 
 1. VAE
 2. UNet
@@ -11,4 +12,4 @@ Stable diffusion model from scratch
 
 ### What's next
 - [ ] flow matching
-- [ ] transformer based diffudion process
+- [ ] transformer based diffudion process (Stable diffusion v3)
