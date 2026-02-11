@@ -16,7 +16,7 @@ Stable diffusion model from scratch
 
 ### What's next
 - [ ] Create file/folder for notebook created functions
-- [ ] flow matching
+- [ ] Flow matching
 - [ ] Transformer based diffusion process (Stable diffusion v3)
 - [ ] Implement Pipeline
 - [ ] conda enviornment setup
