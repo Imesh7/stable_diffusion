@@ -1,6 +1,6 @@
 # Stable Diffusion model from scratch
 Stable diffusion model from scratch
-(Stable difffusion v1)
+(Stable diffusion v1)
 
 ## Key Features
 
@@ -15,6 +15,8 @@ Stable diffusion model from scratch
 
 
 ### What's next
+- [ ] Create file/folder for notebook created functions
 - [ ] flow matching
 - [ ] Transformer based diffusion process (Stable diffusion v3)
 - [ ] Implement Pipeline
+- [ ] conda enviornment setup
