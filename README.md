@@ -1,6 +1,6 @@
 # Stable Diffusion model from scratch
-Stable diffusion model from scratch
-(Stable diffusion v1)
+Stable Diffusion model from scratch
+(Stable Diffusion v1)
 
 ## Key Features
 
