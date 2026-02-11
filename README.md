@@ -2,11 +2,12 @@
 Stable diffusion model from scratch
 (Stable difffusion v1)
 
-## Architecure
+## Key Features
 
-1. VAE
-2. UNet
-3. Denoising process
+1. VAE (from scratch)
+2. UNet (from scratch)
+3. Forward process
+4. Denoising/Diffusion process
 
 ## Dataset
 
@@ -15,4 +16,5 @@ Stable diffusion model from scratch
 
 ### What's next
 - [ ] flow matching
-- [ ] transformer based diffudion process (Stable diffusion v3)
+- [ ] Transformer based diffusion process (Stable diffusion v3)
+- [ ] Implement Pipeline
