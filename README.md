@@ -1,4 +1,4 @@
-# Stable diffusion model from scratch
+# Stable Diffusion model from scratch
 Stable diffusion model from scratch
 (Stable difffusion v1)
 
